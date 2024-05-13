@@ -1,4 +1,4 @@
-FROM node:20-alpine
+FROM node:18-alpine
 
 LABEL maintainer="Soe Thura <thixpin@gmail.com>"
 LABEL description="Docker image for Next.js app"
